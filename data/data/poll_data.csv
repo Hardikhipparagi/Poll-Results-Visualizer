@@ -1,0 +1,8 @@
+Timestamp,Age Group,Gender,Preferred Tool,Satisfaction (1-5),Feedback
+2024-04-01 10:00:00,18-24,Male,Python,4,Very useful tool
+2024-04-01 10:05:00,25-34,Female,R,3,Needs improvement
+2024-04-01 10:10:00,18-24,Female,Excel,5,Super helpful
+2024-04-02 11:00:00,35-44,Male,Python,5,Excellent performance
+2024-04-02 11:30:00,18-24,Male,Excel,2,Not user friendly
+2024-04-03 12:00:00,25-34,Female,Python,4,Great experience
+2024-04-03 12:30:00,35-44,Female,R,3,Average tool

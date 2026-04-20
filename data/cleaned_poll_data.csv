@@ -1,0 +1,21 @@
+Timestamp,Age Group,Gender,Preferred Tool,Satisfaction (1-5),Feedback
+2024-04-01 00:00:00,35-44,Male,Excel,4,Needs improvement
+2024-04-01 01:00:00,25-34,Male,Excel,4,Very useful
+2024-04-01 02:00:00,25-34,Male,Excel,4,Very useful
+2024-04-01 03:00:00,18-24,Male,Python,2,Great tool!
+2024-04-01 04:00:00,18-24,Male,Excel,4,Needs improvement
+2024-04-01 05:00:00,25-34,Female,Excel,3,Very useful
+2024-04-01 06:00:00,35-44,Female,Excel,4,Very useful
+2024-04-01 07:00:00,25-34,Male,R,2,Very useful
+2024-04-01 08:00:00,18-24,Male,Excel,2,Needs improvement
+2024-04-01 09:00:00,35-44,Female,R,1,Needs improvement
+2024-04-01 10:00:00,18-24,Female,Excel,2,Needs improvement
+2024-04-01 11:00:00,35-44,Female,Python,3,Needs improvement
+2024-04-01 12:00:00,35-44,Female,Python,1,Needs improvement
+2024-04-01 13:00:00,18-24,Male,Python,4,Needs improvement
+2024-04-01 14:00:00,25-34,Female,Excel,3,Great tool!
+2024-04-01 15:00:00,18-24,Male,Python,3,Great tool!
+2024-04-01 16:00:00,25-34,Female,Excel,5,Needs improvement
+2024-04-01 17:00:00,25-34,Female,Python,1,Needs improvement
+2024-04-01 18:00:00,35-44,Female,R,2,Needs improvement
+2024-04-01 19:00:00,25-34,Female,R,2,Very useful
